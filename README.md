@@ -1,2 +1,2 @@
-# Server-Maintenance
+# ServerMaintenance
 Python Scripts for maintaining backups
