@@ -1,8 +1,8 @@
 import os
 
 # establish network paths
-s = os.path.abspath('C:\\Program Files (x86)\Blackbaud\REBack')
-n = os.path.abspath('B:\\RE.SQL')
+s = os.path.abspath('D:\\BBBack')
+n = os.path.abspath('B:\\EE.SQL')
 
 # sort directories by oldest to newest
 maa_13 = sorted(os.listdir((os.chdir(s))), key=os.path.getctime)
